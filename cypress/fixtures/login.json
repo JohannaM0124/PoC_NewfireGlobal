@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "userType": "Administrator",
+      "userName": "Administrator_User",
+      "password": "0123456789"
+    },
+    {
+      "userType": "Regular",
+      "userName": "Regular_User",
+      "password": "0123456789"
+    },
+    {
+      "userType": "Visitor",
+      "userName": "Visitor_User",
+      "password": "0123456789"
+    }
+  ]
+}
