@@ -1,0 +1,12 @@
+{
+  "creditCardData": [
+    {
+      "type": "visa",
+      "cardHolderName": "Nop Commerce Automation",
+      "creditCartNumber": "4916503738746609",
+      "expirationMonth": "05",
+      "expirationYear": "2028",
+      "cvv": "313"
+    }
+  ]
+}
