@@ -1,0 +1,32 @@
+{
+  "name": "newfireglobal_poc",
+  "description": "The POC involves the development of automated UI (User Interface) tests using Cypress, a JavaScript-based end-to-end testing framework. \r Some typical scenarios that will be addressed include:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.2.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@deepakvishwakarma/cucumber-json-formatter": "^0.0.3",
+    "cypress": "^12.13.0",
+    "esbuild": "^0.17.19",
+    "multiple-cucumber-html-reporter": "^3.4.0"
+  },
+  "scripts": {
+    "test": "npx cypress open",
+    "localHeadlessMode": "npx cypress run",
+    "localHeadedMode": "npx cypress run --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannaM0124/PoC_NewfireGlobal.git"
+  },
+  "keywords": [
+    "PoC"
+  ],
+  "author": "Johanna A Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohannaM0124/PoC_NewfireGlobal/issues"
+  },
+  "homepage": "https://github.com/JohannaM0124/PoC_NewfireGlobal#readme"
+}
