@@ -1,0 +1,14 @@
+{
+  "billingData": [
+    {
+      "firstName": "America",
+      "lastName": "testing",
+      "email": "as-guest-user@test.com",
+      "country": "Colombia",
+      "city": "Medellin",
+      "address1": "calle 9 # 89",
+      "zipCode": "00005",
+      "phoneNumber": "00000123"
+    }
+  ]
+}
