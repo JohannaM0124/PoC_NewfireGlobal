@@ -14,7 +14,10 @@
   "scripts": {
     "test": "npx cypress open",
     "localHeadlessMode": "npx cypress run",
-    "localHeadedMode": "npx cypress run --headed"
+    "localHeadedMode": "npx cypress run --headed",
+    "localSpecificTestCaseByHlessMode": "npx cypress run --spec cypress/e2e/features/shoppingCart.feature",
+    "deleteReports": "del cypress\\reports\\*.json",
+    "generateHtmlCucumberReport": "node ./cucumber-html-report.js"
   },
   "repository": {
     "type": "git",
