@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+### Cypress ###
+cypress/videos/
+cypress/screenshots/
+
+# Cucumber Report
+cypress/reports/
+
+# Log files
+*.log
+
+# Applications
+*.exe
+
+# Large media files
+*.mp4
